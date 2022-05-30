@@ -18,4 +18,5 @@ We would be writing queries under several categories namely:
 * many to many
 * regular expressions
 * general queries<br/>
+<br/>
 The difficulty of queries increase with each category. 
