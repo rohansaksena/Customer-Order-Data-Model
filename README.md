@@ -10,7 +10,7 @@ products <br/> in different quantities and pay for multiple orders at once via c
 ## ER Diagram 
 ![ER](https://i.imgur.com/H6q1dAb.png)
 
-## Info about project
+## About this Repo
 In this project we will be writing several queries to solve problems and develop a strong grasp over several topics of SQL.<br/>
 We would be writing queries under several categories namely:
 * single entity
