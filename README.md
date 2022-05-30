@@ -10,4 +10,12 @@ products <br/> in different quantities and pay for multiple orders at once via c
 ## ER Diagram 
 ![ER](https://i.imgur.com/H6q1dAb.png)
 
-## Information 
+## Info about project
+In this project we will be writing several queries to solve problems and develop a strong grasp over several topics of SQL.<br/>
+We would be writing queries under several categories namely:
+* single entity
+* one to many
+* many to many
+* regular expressions
+* general queries<br/>
+The difficulty of queries increase with each category. 
