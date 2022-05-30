@@ -8,3 +8,4 @@ are typically toy/gift stores. Each customer has a designated sales representati
 products <br/> in different quantities and pay for multiple orders at once via cheques.
 
 ## ER Diagram 
+![]('https://i.imgur.com/H6q1dAb.png')
