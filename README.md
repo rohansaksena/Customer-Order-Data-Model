@@ -9,3 +9,5 @@ products <br/> in different quantities and pay for multiple orders at once via c
 
 ## ER Diagram 
 ![ER](https://i.imgur.com/H6q1dAb.png)
+
+## Information 
