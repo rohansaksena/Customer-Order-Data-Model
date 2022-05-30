@@ -6,3 +6,5 @@ Classic Models has offices around the world with dozens of employees.<br/> The c
 are typically toy/gift stores. Each customer has a designated sales representative <br/>
 (an employee of Classic Models) they interact with. Customers typically place orders requesting several 
 products <br/> in different quantities and pay for multiple orders at once via cheques.
+
+## ER Diagram 
