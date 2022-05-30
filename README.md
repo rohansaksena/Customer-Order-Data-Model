@@ -17,6 +17,9 @@ We would be writing queries under several categories namely:
 * one to many
 * many to many
 * regular expressions
-* general queries<br/>
+* general queries
 <br/>
 The difficulty of queries increase with each category. 
+
+## Project Setup
+In order to clone this repository you need to have a SQL Server installed on your device preferably MySQL
