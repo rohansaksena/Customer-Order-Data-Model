@@ -11,7 +11,7 @@ products <br/> in different quantities and pay for multiple orders at once via c
 ![ER](https://i.imgur.com/H6q1dAb.png)
 
 ## About this Repo
-In this project we will be writing several queries to solve problems and develop a strong grasp over several topics of SQL.<br/>
+In this project we will be writing several queries to analyse the customer-order-data-model to develop a strong grasp over several topics of SQL.<br/>
 We would be writing queries under several categories namely:
 * single entity
 * one to many
