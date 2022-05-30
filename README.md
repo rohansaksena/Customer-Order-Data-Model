@@ -31,3 +31,5 @@ The other option is to click the green "clone or download" button and then click
 <br/>
 <br/>
 Install MySQL from https://dev.mysql.com/downloads/mysql/
+<br/>
+Download Classicmodels Database from https://www.mysqltutorial.org/mysql-sample-database.aspx  
