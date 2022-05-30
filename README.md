@@ -22,4 +22,8 @@ We would be writing queries under several categories namely:
 The difficulty of queries increase with each category. 
 
 ## Project Setup
-In order to clone this repository you need to have a SQL Server installed on your device preferably MySQL
+In order to clone this repository you need to have a SQL Server installed on your device preferably MySQL.
+<br/>
+To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+
+The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
